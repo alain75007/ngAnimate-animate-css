@@ -1,4 +1,4 @@
-# ngAnimate-animate.css Module
+# ngAnimate-animate-css Module
 
 ## Requirements
 
@@ -7,21 +7,21 @@ AngularJS 1.2.3+ (it should also work with 1.2.0 and 1.2.1, but 1.2.2 does not w
 ## Installation
 
 1. Prepare angular.js 1.2 into your application with the ngAnimate module
-2. Download and include animate.css into your webpage
+2. Download and include animate-css into your webpage
 3. Include animate.js into your webpage
-4. Set **ngAnimate-animate.css** as a dependency inside of your application module.
+4. Set **ngAnimate-animate-css** as a dependency inside of your application module.
 
 You can also use bower:
 
 ```bash
 # this should install v0.1.1 or higher
-# and it should also include animate.css
-bower install ngAnimate-animate.css --save
+# and it should also include animate-css
+bower install ngAnimate-animate-css --save
 ```
 
 ## Usage
 
-This plugin automatically registers simple CSS classes to all animations for animate.css within the AngularJS ngAnimate
+This plugin automatically registers simple CSS classes to all animations for animate-css within the AngularJS ngAnimate
 JavaScript animation API.
 
 Once installed, animations can be performed by attaching the following CSS classes to an element.

@@ -1,4 +1,4 @@
-angular.module('ngAnimate-animate.css', ['ngAnimate'])
+angular.module('ngAnimate-animate-css', ['ngAnimate'])
 
   .factory('animateCSSBuild', ['$timeout', function($timeout) {
     return function(baseClass, classNames) {
